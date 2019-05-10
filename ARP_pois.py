@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# este script no es de mi autoria, el ejemplo lo puedes 
+# encontrar en el libro Black Hat Python
 from scapy.all import *
 import os
 import sys
